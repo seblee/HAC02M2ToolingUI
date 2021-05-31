@@ -5,6 +5,6 @@ Version=-1
 SCREENDSIZE=800X480
 SPADDRESS=5000
 [IMG]
-0=0.png
+0=0_home.png
 1=1_keyNum.bmp
 2=2_keyNum.bmp
